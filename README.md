@@ -1,0 +1,2 @@
+# CJTextCycleView
+A text circulator
